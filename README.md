@@ -11,4 +11,8 @@ I build ML and AI systems for vision, audio, and retrieval. Interested in effici
 - 🎙️ **[Sentiment & Speech Classification](https://github.com/alan-man/tal-projet)** - Speaker and movie-review classification with topic models, text features, RNNs, BERT, and RoBERTa. Improved F1 from 0.62 to 0.81 across 40+ teams.  
   &nbsp;&nbsp;└─ **[Report](https://alan-man.github.io/reports/Sentiment.pdf)**
 
+- 🏠 **[Dynamic Pricing in Paris: Airbnb Valuation](https://github.com/alan-man/airbnb-pricing)** - Hybrid dataset (historical InsideAirbnb + Q4 2025 scraper) to predict nightly rates. Random Forest with temporal features (month, seasonal flags) explained 52% of price variance, significantly outperforming static baselines.  
+  &nbsp;&nbsp;└─ **[Report](https://alan-man.github.io/reports/Airbnb_Pricing_Report.pdf)**
+
+
 [Website](https://alan-man.github.io/) · [LinkedIn](https://www.linkedin.com/in/alan-tambellini)

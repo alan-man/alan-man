@@ -11,4 +11,4 @@ I build ML and AI systems for vision, audio, and retrieval. Interested in effici
 - 🎙️ **[Sentiment & Speech Classification](https://github.com/alan-man/tal-projet)** - Speaker and movie-review classification with topic models, text features, RNNs, BERT, and RoBERTa. Improved F1 from 0.62 to 0.81 across 40+ teams.  
   &nbsp;&nbsp;└─ **[Report](https://alan-man.github.io/reports/Sentiment.pdf)**
 
-[GitHub](https://github.com/alan-man) · [LinkedIn](https://www.linkedin.com/in/alan-tambellini)
+[Website](https://alan-man.github.io/) · [LinkedIn](https://www.linkedin.com/in/alan-tambellini)

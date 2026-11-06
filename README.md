@@ -2,7 +2,7 @@
 
 I build ML and AI systems for vision, audio, and retrieval. Interested in efficient models, feature engineering, and tools that turn messy data into clear results.
 
-- 🌳 **[Tree Classification from Aerial Imagery](https://github.com/ZahhS/trees_project_2026)** - CNNs, ViTs, DINOv2, CLIP zero-shot, and CoOp for tree-crown classification and segmentation on high-res drone imagery. Sliding-window inference and lightweight decoders.  
+- 🌳 **[Tree Classification from Aerial Imagery](https://github.com/alan-man/trees_project_2026)** - CNNs, ViTs, DINOv2, CLIP zero-shot, and CoOp for tree-crown classification and segmentation on high-res drone imagery. Sliding-window inference and lightweight decoders.  
   &nbsp;&nbsp;└─ **[Report](https://alan-man.github.io/reports/Tree_Report_2026_AT_ZS.pdf)**
 - 🐦 **[BirdCLEF+ Species Classification](https://github.com/Franciline/ML_project)** - 490 MFCC, spectral, and statistical features for 234-species multi-label audio task. Logistic Regression, SVC, and XGBoost with one-vs-rest and cross-validation.  
   &nbsp;&nbsp;└─ **[Report](https://alan-man.github.io/reports/Sentiment.pdf)**
